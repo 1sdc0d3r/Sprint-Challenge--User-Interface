@@ -168,6 +168,15 @@ header nav ul {
   align-items: center;
   margin: 2% auto;
 }
+
+header nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+header nav ul li a:hover {
+  color: #ea4f1d;
+}
+
 header img {
   margin-top: 1.838%;
 }
