@@ -167,6 +167,7 @@ header nav ul {
   justify-content: space-around;
   align-items: center;
   margin: 2% auto;
+  /* border: 1px red solid; */
 }
 
 header nav ul li a {
@@ -185,8 +186,7 @@ header img {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 20px 0;
   border-bottom: 1px dashed black;
 }
 

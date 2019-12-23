@@ -32,10 +32,6 @@
             &:hover {
               color: #c08243;
             }
-            &:active {
-            }
-            &:focus {
-            }
           }
         }
       }
@@ -117,10 +113,6 @@
     // margin-top: 25px;
     width: 96%;
     margin: 25px auto;
-    h2 {
-    }
-    p {
-    }
   }
   footer {
     nav {
@@ -132,10 +124,7 @@
         color: white;
         text-decoration: none;
         &:hover {
-        }
-        &:active {
-        }
-        &:focus {
+          color: burlywood;
         }
       }
     }
